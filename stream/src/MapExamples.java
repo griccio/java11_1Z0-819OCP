@@ -44,6 +44,7 @@ public class MapExamples {
                         .collect(Collectors.toSet());
 
         System.out.println("firstset = " + firstset);
+        System.out.println("firstlist = " + firstList);
 
     }
 
