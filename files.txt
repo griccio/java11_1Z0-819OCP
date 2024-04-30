@@ -1,0 +1,13 @@
+characterData.txt
+copia_dante_commedia.txt
+dahl.ser
+dahl_Fantastic_mr_fox.ser
+dante_commedia.txt
+dir.txt
+files.txt
+FinallyProperties.txt
+giuseppe.txt
+java11_1Z0-819OCP.iml
+lola.ser
+manufacturers.txt
+TestingFile.txt

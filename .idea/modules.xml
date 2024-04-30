@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/StaticInnerLocalAnonymousClasses/StaticInnerLocalAnonymousClasses.iml" filepath="$PROJECT_DIR$/StaticInnerLocalAnonymousClasses/StaticInnerLocalAnonymousClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/annotations-part2-sect18/annotations-part2-sect18.iml" filepath="$PROJECT_DIR$/annotations-part2-sect18/annotations-part2-sect18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/array/array.iml" filepath="$PROJECT_DIR$/array/array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collectionList/collectionList.iml" filepath="$PROJECT_DIR$/collectionList/collectionList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collectionQueueDeque/collectionQueueDeque.iml" filepath="$PROJECT_DIR$/collectionQueueDeque/collectionQueueDeque.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collectionSet/collectionSet.iml" filepath="$PROJECT_DIR$/collectionSet/collectionSet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collectionsStaticMethods/collectionsStaticMethods.iml" filepath="$PROJECT_DIR$/collectionsStaticMethods/collectionsStaticMethods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/comparable/comparable.iml" filepath="$PROJECT_DIR$/comparable/comparable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/concurrency/concurrency.iml" filepath="$PROJECT_DIR$/concurrency/concurrency.iml" />
+      <module fileurl="file://$PROJECT_DIR$/datatype_3/datatype_3.iml" filepath="$PROJECT_DIR$/datatype_3/datatype_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/encapsulation/encapsulation.iml" filepath="$PROJECT_DIR$/encapsulation/encapsulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exception_11/exception_11.iml" filepath="$PROJECT_DIR$/exception_11/exception_11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/generic/generic.iml" filepath="$PROJECT_DIR$/generic/generic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inheritance/inheritance.iml" filepath="$PROJECT_DIR$/inheritance/inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java11_1Z0-819OCP.iml" filepath="$PROJECT_DIR$/java11_1Z0-819OCP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lambda/lambda.iml" filepath="$PROJECT_DIR$/lambda/lambda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lambdaMethodReference/lambdaMethodReference.iml" filepath="$PROJECT_DIR$/lambdaMethodReference/lambdaMethodReference.iml" />
+      <module fileurl="file://$PROJECT_DIR$/locale/locale.iml" filepath="$PROJECT_DIR$/locale/locale.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mapHashMapTreeMapLinkedHashMap/mapHashMapTreeMapLinkedHashMap.iml" filepath="$PROJECT_DIR$/mapHashMapTreeMapLinkedHashMap/mapHashMapTreeMapLinkedHashMap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/methods/methods.iml" filepath="$PROJECT_DIR$/methods/methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mySamples/mySamples.iml" filepath="$PROJECT_DIR$/mySamples/mySamples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nio_part2-sect14/nio_part2-sect14.iml" filepath="$PROJECT_DIR$/nio_part2-sect14/nio_part2-sect14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/packagesample/packagesample.iml" filepath="$PROJECT_DIR$/packagesample/packagesample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/polimorphism__9/polimorphism__9.iml" filepath="$PROJECT_DIR$/polimorphism__9/polimorphism__9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/programflow-if-while/programflow-if-while.iml" filepath="$PROJECT_DIR$/programflow-if-while/programflow-if-while.iml" />
+      <module fileurl="file://$PROJECT_DIR$/programminginterfaces_10/programminginterfaces_10.iml" filepath="$PROJECT_DIR$/programminginterfaces_10/programminginterfaces_10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quiz/quiz.iml" filepath="$PROJECT_DIR$/quiz/quiz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stream/stream.iml" filepath="$PROJECT_DIR$/stream/stream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/strings_part1_sect3/strings_part1_sect3.iml" filepath="$PROJECT_DIR$/strings_part1_sect3/strings_part1_sect3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wrapper/wrapper.iml" filepath="$PROJECT_DIR$/wrapper/wrapper.iml" />
+    </modules>
+  </component>
+</project>
