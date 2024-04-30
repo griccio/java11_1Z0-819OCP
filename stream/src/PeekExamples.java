@@ -37,5 +37,38 @@ public class PeekExamples {
         System.out.println("Lists contain same elements? " +
                 firstList.equals(secondList));
 
+        List<Student> thirdList =
+                firstList.stream()
+                        // What happens if we call a method with side-effect?
+                        .peek(PeekExamples::changeStudent)
+                        // Terminal operation returns a List
+                        .collect(Collectors.toList());
+
+        System.out.println("firstList = " + firstList);
+        System.out.println("thirdList = " + thirdList);
+
+    }
+    // A method that has side-effects, name of student changes
+    private static void changeStudent(Student p) {
+        p.setName(p.getName() + " Doe");
     }
 }
+/*
+--------- Before Peek ---------
+[1001 : Bob]
+[1002 : Bob]
+[1003 : Howard]
+[1004 : Greg]
+[1005 : Greg]
+---- Peeking during stream operations ----
+[1001 : Bob] [1002 : Bob] [1003 : Howard] [1004 : Greg] [1005 : Greg]
+--------- After Peek ---------
+[1001 : Bob]
+[1002 : Bob]
+[1003 : Howard]
+[1004 : Greg]
+[1005 : Greg]
+Lists contain same elements? true
+firstList = [[1001 : Bob Doe] , [1002 : Bob Doe] , [1003 : Howard Doe] , [1004 : Greg Doe] , [1005 : Greg Doe] ]
+thirdList = [[1001 : Bob Doe] , [1002 : Bob Doe] , [1003 : Howard Doe] , [1004 : Greg Doe] , [1005 : Greg Doe] ]
+* */
