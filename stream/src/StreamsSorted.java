@@ -70,9 +70,9 @@ public class StreamsSorted {
                 })
                 //with lambda
                 .sorted((s,t) -> s.last.compareToIgnoreCase(t.last))
-                //if class implements with Comparable
+                //if class implements Comparable
                 .sorted()
-                //or
+                //or ... but it is the same
                 .sorted(Comparator.naturalOrder())
                 .forEach(System.out::println);
 
