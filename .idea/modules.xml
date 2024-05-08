@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/StaticInnerLocalAnonymousClasses/StaticInnerLocalAnonymousClasses.iml" filepath="$PROJECT_DIR$/StaticInnerLocalAnonymousClasses/StaticInnerLocalAnonymousClasses.iml" />
       <module fileurl="file://$PROJECT_DIR$/annotations-part2-sect18/annotations-part2-sect18.iml" filepath="$PROJECT_DIR$/annotations-part2-sect18/annotations-part2-sect18.iml" />
       <module fileurl="file://$PROJECT_DIR$/array/array.iml" filepath="$PROJECT_DIR$/array/array.iml" />
       <module fileurl="file://$PROJECT_DIR$/collectionList/collectionList.iml" filepath="$PROJECT_DIR$/collectionList/collectionList.iml" />
@@ -14,6 +13,8 @@
       <module fileurl="file://$PROJECT_DIR$/datatype_3/datatype_3.iml" filepath="$PROJECT_DIR$/datatype_3/datatype_3.iml" />
       <module fileurl="file://$PROJECT_DIR$/encapsulation/encapsulation.iml" filepath="$PROJECT_DIR$/encapsulation/encapsulation.iml" />
       <module fileurl="file://$PROJECT_DIR$/exception_11/exception_11.iml" filepath="$PROJECT_DIR$/exception_11/exception_11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fundamentalModifiersFinalAndAbstract/fundamentalModifiersFinalAndAbstract.iml" filepath="$PROJECT_DIR$/fundamentalModifiersFinalAndAbstract/fundamentalModifiersFinalAndAbstract.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fundamentalNestedClasses/fundamentalNestedClasses.iml" filepath="$PROJECT_DIR$/fundamentalNestedClasses/fundamentalNestedClasses.iml" />
       <module fileurl="file://$PROJECT_DIR$/generic/generic.iml" filepath="$PROJECT_DIR$/generic/generic.iml" />
       <module fileurl="file://$PROJECT_DIR$/inheritance/inheritance.iml" filepath="$PROJECT_DIR$/inheritance/inheritance.iml" />
       <module fileurl="file://$PROJECT_DIR$/java11_1Z0-819OCP.iml" filepath="$PROJECT_DIR$/java11_1Z0-819OCP.iml" />

@@ -15,8 +15,16 @@ interface Doable {
 public class AnonymousInnerExample {
     String name = "Default";
     public void testAnonymous() {
+
         // Declare a variable of type AnAbstractClass and immediately
         // define the class body
+        AnAbstractClass a1 = new AnAbstractClass(){
+            public void doSomething(){
+                System.out.println("Anonymous AnAbstractClass " +
+                        "will doSomething with " + i);
+            }
+        };
+        //
         AnAbstractClass a = new AnAbstractClass() {
             // Implementing the abstract method on AnAbstractClass
             public void doSomething() {

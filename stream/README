@@ -1,16 +1,9 @@
-
-exercices this package contains my example
-MyMapOperationExample.java
-StreamInfiniteCreate
-TestLazyAttitudeOfTerminalOperation.java
 BuilderExtras
 ConcatExamples
-FlatMapExamples : example of internal operation flatmap. It uses the POJO class Course and Student
 FunctionalInterfaceArguments.java
 LambdaExamples
 Main
 MapExamples
-MapToIntExample
 MethodReference.java
 MyInfiniteStream
 MyIntStreamExample

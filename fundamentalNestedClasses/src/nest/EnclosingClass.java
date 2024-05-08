@@ -72,7 +72,7 @@ class TestEnclosingClass {
 
         // Reference static method on static nested class directly:
         System.out.println(EnclosingClass.NestedStaticClass.getStaticName());
-
+        System.out.println(new EnclosingClass.NestedStaticClass().getInstanceName());
         // Reference enum on static nested class directly:
         System.out.println(EnclosingClass.NestedStaticClass.Colors.BLUE);
 

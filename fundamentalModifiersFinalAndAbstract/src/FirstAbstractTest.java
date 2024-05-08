@@ -6,8 +6,6 @@ Section 1: Java Fundamentals
 Topic 1: Final modifier used with classes.
 */
 
-import java.sql.SQLOutput;
-
 abstract class ExtendMeRequired {
     // This method is valid for overriding
     public abstract void doSomething();
@@ -17,7 +15,7 @@ abstract class ExtendMeRequired {
     }
 }
 
-class SecongExtendedClass extends ExtendMeRequired{
+class SecondExtendedClass extends ExtendMeRequired{
 
     @Override
     public void doSomething() {
@@ -48,7 +46,7 @@ public class FirstAbstractTest {
         };
         extendMeRequired.doSomething();
 
-        SecongExtendedClass secongExtendedClass = new SecongExtendedClass();
+        SecondExtendedClass secongExtendedClass = new SecondExtendedClass();
         secongExtendedClass.doSomething();
     }
 }

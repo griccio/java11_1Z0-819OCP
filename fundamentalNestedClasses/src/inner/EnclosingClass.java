@@ -29,12 +29,13 @@ public class EnclosingClass {
         public String instanceName = "InnerMemberClass.instanceName";
         // instance method
         public String getInstanceName() {
-            return "getInstanceName() = " + this.instanceName;
+            return "getInstanceName() = " + this.instanceName + outerName;
         }
         //With Shadowing
 //        public String getOuterName() {
 //            return "getInstanceName() = " + outerName;
 //        }
+
         //eliminate Shadowing
         public String getOuterName() {
             return "getInstanceName() = " + EnclosingClass.this.outerName;
