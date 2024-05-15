@@ -12,11 +12,13 @@
       <module fileurl="file://$PROJECT_DIR$/concurrency/concurrency.iml" filepath="$PROJECT_DIR$/concurrency/concurrency.iml" />
       <module fileurl="file://$PROJECT_DIR$/datatype_3/datatype_3.iml" filepath="$PROJECT_DIR$/datatype_3/datatype_3.iml" />
       <module fileurl="file://$PROJECT_DIR$/encapsulation/encapsulation.iml" filepath="$PROJECT_DIR$/encapsulation/encapsulation.iml" />
-      <module fileurl="file://$PROJECT_DIR$/exception_11/exception_11.iml" filepath="$PROJECT_DIR$/exception_11/exception_11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exception/exception.iml" filepath="$PROJECT_DIR$/exception/exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fundamentalEnum/fundamentalEnum.iml" filepath="$PROJECT_DIR$/fundamentalEnum/fundamentalEnum.iml" />
       <module fileurl="file://$PROJECT_DIR$/fundamentalModifiersFinalAndAbstract/fundamentalModifiersFinalAndAbstract.iml" filepath="$PROJECT_DIR$/fundamentalModifiersFinalAndAbstract/fundamentalModifiersFinalAndAbstract.iml" />
       <module fileurl="file://$PROJECT_DIR$/fundamentalNestedClasses/fundamentalNestedClasses.iml" filepath="$PROJECT_DIR$/fundamentalNestedClasses/fundamentalNestedClasses.iml" />
       <module fileurl="file://$PROJECT_DIR$/generic/generic.iml" filepath="$PROJECT_DIR$/generic/generic.iml" />
       <module fileurl="file://$PROJECT_DIR$/inheritance/inheritance.iml" filepath="$PROJECT_DIR$/inheritance/inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interface/interface.iml" filepath="$PROJECT_DIR$/interface/interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/java11_1Z0-819OCP.iml" filepath="$PROJECT_DIR$/java11_1Z0-819OCP.iml" />
       <module fileurl="file://$PROJECT_DIR$/lambda/lambda.iml" filepath="$PROJECT_DIR$/lambda/lambda.iml" />
       <module fileurl="file://$PROJECT_DIR$/lambdaMethodReference/lambdaMethodReference.iml" filepath="$PROJECT_DIR$/lambdaMethodReference/lambdaMethodReference.iml" />
