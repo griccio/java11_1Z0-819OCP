@@ -6,7 +6,7 @@ Sub-Topic: downcasting
 */
 
 // Animal is our base class
-class Animal {
+ class Animal {
     public void printAnimal() {
         System.out.println("I am an animal");
     }
@@ -48,6 +48,8 @@ public class DowncastExamples {
         // generically typed variables.
         dex.testAnimal(genericDog);
         dex.testAnimal(genericCat);
+
+        Dog dog = (Dog)genericCat;
     }
 
     //Three Overloaded methods

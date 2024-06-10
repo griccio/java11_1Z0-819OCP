@@ -27,8 +27,9 @@
       <module fileurl="file://$PROJECT_DIR$/methods/methods.iml" filepath="$PROJECT_DIR$/methods/methods.iml" />
       <module fileurl="file://$PROJECT_DIR$/mySamples/mySamples.iml" filepath="$PROJECT_DIR$/mySamples/mySamples.iml" />
       <module fileurl="file://$PROJECT_DIR$/nio_part2-sect14/nio_part2-sect14.iml" filepath="$PROJECT_DIR$/nio_part2-sect14/nio_part2-sect14.iml" />
-      <module fileurl="file://$PROJECT_DIR$/packagesample/packagesample.iml" filepath="$PROJECT_DIR$/packagesample/packagesample.iml" />
-      <module fileurl="file://$PROJECT_DIR$/polimorphism__9/polimorphism__9.iml" filepath="$PROJECT_DIR$/polimorphism__9/polimorphism__9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/package-sample/package-sample.iml" filepath="$PROJECT_DIR$/package-sample/package-sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/polimorphism/polimorphism.iml" filepath="$PROJECT_DIR$/polimorphism/polimorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/primitive-data/primitive-data.iml" filepath="$PROJECT_DIR$/primitive-data/primitive-data.iml" />
       <module fileurl="file://$PROJECT_DIR$/programflow-if-while/programflow-if-while.iml" filepath="$PROJECT_DIR$/programflow-if-while/programflow-if-while.iml" />
       <module fileurl="file://$PROJECT_DIR$/programminginterfaces_10/programminginterfaces_10.iml" filepath="$PROJECT_DIR$/programminginterfaces_10/programminginterfaces_10.iml" />
       <module fileurl="file://$PROJECT_DIR$/quiz/quiz.iml" filepath="$PROJECT_DIR$/quiz/quiz.iml" />

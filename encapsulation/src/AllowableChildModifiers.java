@@ -34,7 +34,7 @@ class Dog extends Animal {
     // breed was protected on Animal, we declare it package-private by
     // default
     // package-private is more restrictive hiding than protected
-    String breed;
+    protected String breed;
 
     // name was public on Animal, we declare it private here
     // More restrictive hiding
@@ -73,5 +73,22 @@ public class AllowableChildModifiers {
         System.out.println("Pug's owner is " + a.owner);
         System.out.println("Pug's name is " + a.name);
 //        System.out.println("Pug's type is " + a.type);
+
+        Dog pug2 = pug;
+        System.out.println("Pug's breed is " + pug2.breed);
+        System.out.println("Pug's owner is " + pug2.owner);
+//        System.out.println("Pug's name is " + pug2.name);
     }
 }
+/**
+ Created a generic animal with defaults:
+ Unknown's Unknown Unknown is a Unknown
+ Created a specific dog
+ Unknown's Unknown Unknown is a Unknown
+ Pug's type is Dog
+ Pug's breed is Pug
+ Pug's owner is Fran
+ Pug's breed is Unknown
+ Pug's owner is Unknown
+ Pug's name is Unknown
+ */

@@ -71,3 +71,11 @@ public class AllowableOverrideModifiers {
         b.printPrivate();
     }
 }
+/**
+ An Employee can make a public statement
+ An Employee can make a protected statement
+ An Employee can make a package statement
+ An Employee can make a private statement, but only the employee can make it accessible through other means..
+ A Boss's packaged speech can be shared with his children as well now.
+ A Boss's private statements can be made public now
+ */

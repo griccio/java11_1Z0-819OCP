@@ -22,6 +22,7 @@ class PackageAClass {
         System.out.println("- SuperClass().protectedInt = "
                 + c.protectedInt);
 
+
     }
 }
 
@@ -45,3 +46,14 @@ public class SuperClass {
         System.out.println("- this.privateInt = " + this.privateInt);
     }
 }
+/**
+ pkga.SuperClass has access to all of its own attributes:
+ - this.publicInt = 10
+ - this.packageInt = 20
+ - this.protectedInt = 30
+ - this.privateInt = 40
+ A non-subclass class has access to all but private fields of another class in same package
+ - SuperClass().publicInt = 10
+ - SuperClass().packageInt = 20
+ - SuperClass().protectedInt = 30
+ */
