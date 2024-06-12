@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/01-package-sample/01-package-sample.iml" filepath="$PROJECT_DIR$/01-package-sample/01-package-sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-primitive-data/02-primitive-data.iml" filepath="$PROJECT_DIR$/02-primitive-data/02-primitive-data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-scope/03-scope.iml" filepath="$PROJECT_DIR$/03-scope/03-scope.iml" />
       <module fileurl="file://$PROJECT_DIR$/annotations-part2-sect18/annotations-part2-sect18.iml" filepath="$PROJECT_DIR$/annotations-part2-sect18/annotations-part2-sect18.iml" />
       <module fileurl="file://$PROJECT_DIR$/array/array.iml" filepath="$PROJECT_DIR$/array/array.iml" />
       <module fileurl="file://$PROJECT_DIR$/collectionList/collectionList.iml" filepath="$PROJECT_DIR$/collectionList/collectionList.iml" />
@@ -13,9 +16,9 @@
       <module fileurl="file://$PROJECT_DIR$/datatype_3/datatype_3.iml" filepath="$PROJECT_DIR$/datatype_3/datatype_3.iml" />
       <module fileurl="file://$PROJECT_DIR$/encapsulation/encapsulation.iml" filepath="$PROJECT_DIR$/encapsulation/encapsulation.iml" />
       <module fileurl="file://$PROJECT_DIR$/exception/exception.iml" filepath="$PROJECT_DIR$/exception/exception.iml" />
-      <module fileurl="file://$PROJECT_DIR$/fundamentalEnum/fundamentalEnum.iml" filepath="$PROJECT_DIR$/fundamentalEnum/fundamentalEnum.iml" />
-      <module fileurl="file://$PROJECT_DIR$/fundamentalModifiersFinalAndAbstract/fundamentalModifiersFinalAndAbstract.iml" filepath="$PROJECT_DIR$/fundamentalModifiersFinalAndAbstract/fundamentalModifiersFinalAndAbstract.iml" />
-      <module fileurl="file://$PROJECT_DIR$/fundamentalNestedClasses/fundamentalNestedClasses.iml" filepath="$PROJECT_DIR$/fundamentalNestedClasses/fundamentalNestedClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fundamental-Enum/fundamental-Enum.iml" filepath="$PROJECT_DIR$/fundamental-Enum/fundamental-Enum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fundamental-ModifiersFinalAndAbstract/fundamental-ModifiersFinalAndAbstract.iml" filepath="$PROJECT_DIR$/fundamental-ModifiersFinalAndAbstract/fundamental-ModifiersFinalAndAbstract.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fundamental-NestedClasses/fundamental-NestedClasses.iml" filepath="$PROJECT_DIR$/fundamental-NestedClasses/fundamental-NestedClasses.iml" />
       <module fileurl="file://$PROJECT_DIR$/generic/generic.iml" filepath="$PROJECT_DIR$/generic/generic.iml" />
       <module fileurl="file://$PROJECT_DIR$/inheritance/inheritance.iml" filepath="$PROJECT_DIR$/inheritance/inheritance.iml" />
       <module fileurl="file://$PROJECT_DIR$/interface/interface.iml" filepath="$PROJECT_DIR$/interface/interface.iml" />
@@ -27,9 +30,7 @@
       <module fileurl="file://$PROJECT_DIR$/methods/methods.iml" filepath="$PROJECT_DIR$/methods/methods.iml" />
       <module fileurl="file://$PROJECT_DIR$/mySamples/mySamples.iml" filepath="$PROJECT_DIR$/mySamples/mySamples.iml" />
       <module fileurl="file://$PROJECT_DIR$/nio_part2-sect14/nio_part2-sect14.iml" filepath="$PROJECT_DIR$/nio_part2-sect14/nio_part2-sect14.iml" />
-      <module fileurl="file://$PROJECT_DIR$/package-sample/package-sample.iml" filepath="$PROJECT_DIR$/package-sample/package-sample.iml" />
       <module fileurl="file://$PROJECT_DIR$/polimorphism/polimorphism.iml" filepath="$PROJECT_DIR$/polimorphism/polimorphism.iml" />
-      <module fileurl="file://$PROJECT_DIR$/primitive-data/primitive-data.iml" filepath="$PROJECT_DIR$/primitive-data/primitive-data.iml" />
       <module fileurl="file://$PROJECT_DIR$/programflow-if-while/programflow-if-while.iml" filepath="$PROJECT_DIR$/programflow-if-while/programflow-if-while.iml" />
       <module fileurl="file://$PROJECT_DIR$/programminginterfaces_10/programminginterfaces_10.iml" filepath="$PROJECT_DIR$/programminginterfaces_10/programminginterfaces_10.iml" />
       <module fileurl="file://$PROJECT_DIR$/quiz/quiz.iml" filepath="$PROJECT_DIR$/quiz/quiz.iml" />
